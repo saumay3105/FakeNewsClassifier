@@ -28,8 +28,8 @@ The training data is stored in `Fake News Detection Dataset.csv`, which contains
    ```bash
    python fake_news_detection.py
 ## Dependencies
--Jupter
--pandas
--scikit-learn 
--seaborn
--matplotlib
+- Jupter
+- pandas
+- scikit-learn 
+- seaborn
+- matplotlib
